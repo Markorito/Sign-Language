@@ -14,3 +14,5 @@ scipy
 tensorflow>=2.6
 torchvision
 ipykernel
+opencv-python
+streamlit
